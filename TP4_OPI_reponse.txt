@@ -1,0 +1,3 @@
+Exercice 1
+
+Un répertoire .git a été créé il contient les répertoires branches, hooks, info, objects,refs. Il contient aussi les fichiers config, description et HEAD.
