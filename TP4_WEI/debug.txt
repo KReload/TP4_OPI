@@ -1,0 +1,15 @@
+Exercice 4) 
+
+2) Il n'y a pas de fuites mémoire
+
+3) Le HEAP SUMMARY contient le résumé de l'espace mémoire alloué et désalloué. Mais aussi de l'espace qui n'a pas été libéré.
+
+5) L'erreur se trouve à la ligne 6,  l'espace n'a pas été alloué correctement, c'est une erreur de contexte
+
+6,7) Dans mem2.c il y a une variable non utilisée et la mémoire n'a pas été allouée correctement pour p. (voir mdofications mem2.c)
+
+8)Il n'y a pas d'erreurs mais il y a une fuite mémoire, il faut rajouter free(p) à la fin du programme. Une variable n'est pas utilisée.
+
+9) Il n'y a rien d'indiqué dans les erreurs
+
+

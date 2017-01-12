@@ -1,0 +1,26 @@
+Exercice 1
+
+2) Un répertoire .git a été créé il contient les répertoires branches, hooks, info, objects,refs. Il contient aussi les fichiers config, description et HEAD.
+
+4) La branche principale master n'a pas subie de modifications, mais on peut en faire en ajoutant à la branche notre fichier qui n'est pas suivi.
+
+5)Notre fichier est validé
+
+7)Il n'y a acune modification ajoutée
+
+8)La commande contient l'historique de tous les ajouts sur le projet
+
+9) git diff permet de voir les modifications qui ont été rajouté aux fichiers.
+
+11) Notre commit a été mis sur le serveur
+
+Exercice 2
+
+2) Le dossier PremierPas a été rajouté
+
+3) La branche est à jour, rien à modifier
+
+4) On ne peut pas pas push car la branche distante contient du travail que l'on n'a pas en local
+
+11) Les fichiers sont modifiés sur le serveur si et seulement on a le pull le plus récent
+
